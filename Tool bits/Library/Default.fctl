@@ -1,0 +1,41 @@
+{
+  "tools": [
+    {
+      "nr": 1,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\5mm_Endmill.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\5mm_Drill.fctb"
+    },
+    {
+      "nr": 3,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\6mm_Ball_End.fctb"
+    },
+    {
+      "nr": 4,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\6mm_Bullnose.fctb"
+    },
+    {
+      "nr": 5,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\60degree_Vbit.fctb"
+    },
+    {
+      "nr": 7,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\slittingsaw.fctb"
+    },
+    {
+      "nr": 8,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\probe.fctb"
+    },
+    {
+      "nr": 9,
+      "path": "C:/Users/Eric/freecadModels/Tool bits\\Bit\\5mm-thread-cutter.fctb"
+    },
+    {
+      "nr": 10,
+      "path": "C:/Users/Eric/freecadModels/Tool bits/Bit\\3.175 Z2 Q3.175 end mill.fctb"
+    }
+  ],
+  "version": 1
+}
