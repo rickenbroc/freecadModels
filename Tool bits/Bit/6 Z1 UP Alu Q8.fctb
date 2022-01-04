@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "6 Z1 UP Alu Q8",
+  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+  "parameter": {
+    "Chipload": "0,20 mm",
+    "CuttingEdgeHeight": "14,00 mm",
+    "Diameter": "6,00 mm",
+    "Flutes": "1",
+    "Length": "60,00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "8,00 mm"
+  },
+  "attribute": {}
+}

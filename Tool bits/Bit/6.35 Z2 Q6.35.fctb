@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "6.35 Z2 Q6.036",
+  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+  "parameter": {
+    "Chipload": "0,35 mm",
+    "CuttingEdgeHeight": "25,40 mm",
+    "Diameter": "6,35 mm",
+    "Flutes": "2",
+    "Length": "60,00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "6,35 mm"
+  },
+  "attribute": {}
+}

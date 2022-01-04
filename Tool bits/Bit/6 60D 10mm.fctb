@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "6 60D 10mm",
+  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/v-bit.fcstd",
+  "parameter": {
+    "Chipload": "0,08 mm",
+    "CuttingEdgeAngle": "60,00 \u00b0",
+    "CuttingEdgeHeight": "9,00 mm",
+    "Diameter": "10,00 mm",
+    "Flutes": "2",
+    "Length": "45,00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "6,00 mm",
+    "TipDiameter": "0,50 mm"
+  },
+  "attribute": {}
+}

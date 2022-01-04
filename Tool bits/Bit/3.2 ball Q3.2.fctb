@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "3.2 ball Q3.2",
+  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/ballend.fcstd",
+  "parameter": {
+    "Chipload": "0,00 mm",
+    "CuttingEdgeHeight": "3,20 mm",
+    "Diameter": "3,20 mm",
+    "Flutes": "0",
+    "Length": "38,00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3,20 mm"
+  },
+  "attribute": {}
+}

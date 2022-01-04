@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "20 ball Q8",
+  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/ballend.fcstd",
+  "parameter": {
+    "Chipload": "0,00 mm",
+    "CuttingEdgeHeight": "11,40 mm",
+    "Diameter": "20,40 mm",
+    "Flutes": "2",
+    "Length": "47,80 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "8,00 mm"
+  },
+  "attribute": {}
+}

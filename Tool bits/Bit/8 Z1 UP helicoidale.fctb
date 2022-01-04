@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "8 Z1 UP helicoidale",
+  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+  "parameter": {
+    "Chipload": "0,50 mm",
+    "CuttingEdgeHeight": "22,00 mm",
+    "Diameter": "8,00 mm",
+    "Flutes": "1",
+    "Length": "70,00 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "8,00 mm"
+  },
+  "attribute": {}
+}

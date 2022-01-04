@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "12.7 V90deg Q8",
+  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/v-bit.fcstd",
+  "parameter": {
+    "Chipload": "0,00 mm",
+    "CuttingEdgeAngle": "90,00 \u00b0",
+    "CuttingEdgeHeight": "7,50 mm",
+    "Diameter": "12,70 mm",
+    "Flutes": "2",
+    "Length": "40,50 mm",
+    "Material": "Carbide",
+    "ShankDiameter": "8,00 mm",
+    "TipDiameter": "1,00 mm"
+  },
+  "attribute": {}
+}
