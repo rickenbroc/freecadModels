@@ -1,0 +1,367 @@
+{
+  "Fixtures": [
+    {
+      "G54": true
+    }
+  ],
+  "OrderOutputBy": "Fixture",
+  "Output": "%D/%d-%j.gcode",
+  "Post": "grbl",
+  "PostArgs": "",
+  "SetupSheet": {
+    "HorizRapid": "2500,00 mm/min",
+    "VertRapid": "500,00 mm/min"
+  },
+  "SplitOutput": false,
+  "Stock": {
+    "create": "FromBase",
+    "version": 1,
+    "xneg": "0.0 mm",
+    "xpos": "0.0 mm",
+    "yneg": "0.0 mm",
+    "ypos": "0.0 mm",
+    "zneg": "0.0 mm",
+    "zpos": "0.0 mm"
+  },
+  "Tolerance": "0.01",
+  "ToolController": [
+    {
+      "dir": "Forward",
+      "hfeed": "41.666666666666664 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 1.5 z2 Q006",
+      "name": "TC__1_5_z2_Q006",
+      "nr": 6,
+      "speed": 24000.0,
+      "tool": {
+        "attribute": {},
+        "name": "1.5 z2 Q006",
+        "parameter": {
+          "Chipload": "0,06 mm",
+          "CuttingEdgeHeight": "5,00 mm",
+          "Diameter": "1,50 mm",
+          "Flutes": "2",
+          "Length": "49,20 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "4,00 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "41.666666666666664 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 12.7 V90deg Q8",
+      "name": "TC__12_7_V90deg_Q8",
+      "nr": 12,
+      "speed": 24000.0,
+      "tool": {
+        "attribute": {},
+        "name": "12.7 V90deg Q8",
+        "parameter": {
+          "Chipload": "0,00 mm",
+          "CuttingEdgeAngle": "90,00 \u00b0",
+          "CuttingEdgeHeight": "7,50 mm",
+          "Diameter": "12,70 mm",
+          "Flutes": "2",
+          "Length": "40,50 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "8,00 mm",
+          "TipDiameter": "1,00 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/v-bit.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "416.6666666666667 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 12.7 ball Q8",
+      "name": "TC__12_7_ball_Q8",
+      "nr": 11,
+      "speed": 12000.0,
+      "tool": {
+        "attribute": {},
+        "name": "12.7 ball Q8",
+        "parameter": {
+          "Chipload": "0,00 mm",
+          "CuttingEdgeHeight": "6,35 mm",
+          "Diameter": "12,30 mm",
+          "Flutes": "2",
+          "Length": "39,50 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "8,00 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/ballend.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "38.43333333333333 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 3.175 Z1 UP Helicoidale003",
+      "name": "TC__3_175_Z1_UP_Helicoidale003",
+      "nr": 1,
+      "speed": 23059.0,
+      "tool": {
+        "attribute": {},
+        "name": "3.175 Z1 UP Helicoidale003",
+        "parameter": {
+          "Chipload": "0,08 mm",
+          "CuttingEdgeHeight": "17,00 mm",
+          "Diameter": "3,17 mm",
+          "Flutes": "1",
+          "Length": "37,90 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "3,17 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "41.666666666666664 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 3.175 Z2 Q3.175 end mill",
+      "name": "TC__3_175_Z2_Q3_175_end_mill",
+      "nr": 10,
+      "speed": 23059.0,
+      "tool": {
+        "attribute": {},
+        "name": "3.175 Z2 Q3.175 end mill",
+        "parameter": {
+          "Chipload": "0,00 mm",
+          "CuttingEdgeHeight": "17,00 mm",
+          "Diameter": "3,17 mm",
+          "Flutes": "2",
+          "Length": "50,00 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "3,17 mm"
+        },
+        "shape": "C:/Program Files/Freecad/Mod/Path/Tools/Shape/endmill.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "31.833333333333332 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 30 Surface Q6",
+      "name": "TC__30_Surface_Q6",
+      "nr": 8,
+      "speed": 4775.0,
+      "tool": {
+        "attribute": {},
+        "name": "30 Surface Q6",
+        "parameter": {
+          "Chipload": "0,00 mm",
+          "CuttingEdgeHeight": "15,00 mm",
+          "Diameter": "30,00 mm",
+          "Flutes": "0",
+          "Length": "48,30 mm",
+          "Material": "HSS",
+          "ShankDiameter": "6,00 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "416.6666666666667 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 6 60D 10mm",
+      "name": "TC__6_60D_10mm",
+      "nr": 4,
+      "speed": 24000.0,
+      "tool": {
+        "attribute": {},
+        "name": "6 60D 10mm",
+        "parameter": {
+          "Chipload": "0,08 mm",
+          "CuttingEdgeAngle": "60,00 \u00b0",
+          "CuttingEdgeHeight": "9,00 mm",
+          "Diameter": "10,00 mm",
+          "Flutes": "2",
+          "Length": "45,00 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "6,00 mm",
+          "TipDiameter": "0,50 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/v-bit.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "41.666666666666664 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 6.35 Z2 Q6.036",
+      "name": "TC__6_35_Z2_Q6_036",
+      "nr": 7,
+      "speed": 22557.0,
+      "tool": {
+        "attribute": {},
+        "name": "6.35 Z2 Q6.036",
+        "parameter": {
+          "Chipload": "0,35 mm",
+          "CuttingEdgeHeight": "25,40 mm",
+          "Diameter": "6,35 mm",
+          "Flutes": "2",
+          "Length": "60,00 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "6,35 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "41.666666666666664 mm/s",
+      "hrapid": "41.666666666666664 mm/s",
+      "label": "TC: 8 Z1 UP helicoidale",
+      "name": "TC__8_Z1_UP_helicoidale",
+      "nr": 3,
+      "speed": 17905.0,
+      "tool": {
+        "attribute": {},
+        "name": "8 Z1 UP helicoidale",
+        "parameter": {
+          "Chipload": "0,50 mm",
+          "CuttingEdgeHeight": "22,00 mm",
+          "Diameter": "8,00 mm",
+          "Flutes": "1",
+          "Length": "70,00 mm",
+          "Material": "Carbide",
+          "ShankDiameter": "8,00 mm"
+        },
+        "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/endmill.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "8.333333333333334 mm/s",
+      "vrapid": "8.333333333333334 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    }
+  ],
+  "Version": 1
+}
