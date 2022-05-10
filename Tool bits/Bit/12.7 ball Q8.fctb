@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "12.7 ball Q8",
-  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/ballend.fcstd",
+  "shape": "ballend.fcstd",
   "parameter": {
     "Chipload": "0,00 mm",
     "CuttingEdgeHeight": "6,35 mm",

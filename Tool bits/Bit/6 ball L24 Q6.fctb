@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "6 ball L24 Q6",
-  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/ballend.fcstd",
+  "shape": "ballend.fcstd",
   "parameter": {
     "Chipload": "0,15 mm",
     "CuttingEdgeHeight": "24,00 mm",

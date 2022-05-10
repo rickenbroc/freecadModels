@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "3.175 Z2 Q3.175 end mill",
-  "shape": "C:/Program Files/Freecad/Mod/Path/Tools/Shape/endmill.fcstd",
+  "shape": "endmill.fcstd",
   "parameter": {
     "Chipload": "0,00 mm",
     "CuttingEdgeHeight": "17,00 mm",

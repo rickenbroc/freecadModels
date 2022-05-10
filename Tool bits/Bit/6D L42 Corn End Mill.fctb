@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "6D L42 Corn End Mill",
-  "shape": "C:/Program Files/Freecad/Mod/Path/Tools/Shape/endmill.fcstd",
+  "shape": "endmill.fcstd",
   "parameter": {
     "Chipload": "0,30 mm",
     "CuttingEdgeHeight": "42,00 mm",

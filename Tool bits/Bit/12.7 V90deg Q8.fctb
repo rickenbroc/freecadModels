@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "12.7 V90deg Q8",
-  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/v-bit.fcstd",
+  "shape": "v-bit.fcstd",
   "parameter": {
     "Chipload": "0,00 mm",
     "CuttingEdgeAngle": "90,00 \u00b0",

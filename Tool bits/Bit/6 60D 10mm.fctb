@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "6 60D 10mm",
-  "shape": "C:/Program Files/FreeCAD_Realthunder/Mod/Path/Tools/Shape/v-bit.fcstd",
+  "shape": "v-bit.fcstd",
   "parameter": {
     "Chipload": "0,08 mm",
     "CuttingEdgeAngle": "60,00 \u00b0",
