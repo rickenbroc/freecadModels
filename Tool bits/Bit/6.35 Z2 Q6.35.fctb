@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "6.35 Z2 Q6.036",
-  "shape": "endmill.fcstd",
+  "name": "6.35 Z2 Q6.35",
+  "shape": "C:/Users/Eric/freecadModels/Tool bits\\Shape\\endmill.fcstd",
   "parameter": {
     "Chipload": "0,35 mm",
     "CuttingEdgeHeight": "25,40 mm",
