@@ -3,11 +3,14 @@
   "name": "6 mm Bull Nose",
   "shape": "bullnose.fcstd",
   "parameter": {
-    "CuttingEdgeHeight": "40.0000 mm",
-    "Diameter": "6.0000 mm",
-    "FlatRadius": "1.5000 mm",
-    "Length": "50.0000 mm",
-    "ShankDiameter": "3.0000 mm"
+    "Chipload": "0,00 mm",
+    "CuttingEdgeHeight": "40,00 mm",
+    "Diameter": "6,00 mm",
+    "FlatRadius": "1,50 mm",
+    "Flutes": "0",
+    "Length": "50,00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3,00 mm"
   },
   "attribute": {}
 }
