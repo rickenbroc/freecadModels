@@ -1,11 +1,11 @@
 {
   "version": 2,
   "name": "3.175 Z1 UP Helicoidale003",
-  "shape": "endmill.fcstd",
+  "shape": "C:/Users/Eric/freecadModels/Tool bits\\Shape\\endmill.fcstd",
   "parameter": {
     "Chipload": "0,08 mm",
     "CuttingEdgeHeight": "17,00 mm",
-    "Diameter": "3,17 mm",
+    "Diameter": "2,95 mm",
     "Flutes": "1",
     "Length": "37,90 mm",
     "Material": "Carbide",
