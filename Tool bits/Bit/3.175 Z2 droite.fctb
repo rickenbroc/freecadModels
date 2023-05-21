@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "name": "3.175 Z2 droite004",
-  "shape": "C:/Users/Eric/freecadModels/Tool bits\\Shape\\endmill.fcstd",
+  "name": "3.175 Z2 droite006",
+  "shape": "endmill.fcstd",
   "parameter": {
-    "Chipload": "0,08 mm",
-    "CuttingEdgeHeight": "17,00 mm",
+    "Chipload": "80,00 \u00b5m",
+    "CuttingEdgeHeight": "20,00 mm",
     "Diameter": "3,05 mm",
     "Flutes": "2",
     "Length": "38,50 mm",
