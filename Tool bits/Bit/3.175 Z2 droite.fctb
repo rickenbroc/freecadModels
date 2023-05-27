@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "name": "3.175 Z2 droite006",
+  "name": "3.175 Z2 droite010",
   "shape": "endmill.fcstd",
   "parameter": {
-    "Chipload": "80,00 \u00b5m",
+    "Chipload": "0,08 mm",
     "CuttingEdgeHeight": "20,00 mm",
-    "Diameter": "3,05 mm",
+    "Diameter": "3,17 mm",
     "Flutes": "2",
     "Length": "38,50 mm",
     "Material": "Carbide",

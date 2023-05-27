@@ -3,9 +3,9 @@
   "name": "3.175 Z1 UP Helicoidale007",
   "shape": "endmill.fcstd",
   "parameter": {
-    "Chipload": "80,00 \u00b5m",
+    "Chipload": "0,08 mm",
     "CuttingEdgeHeight": "17,00 mm",
-    "Diameter": "3,10 mm",
+    "Diameter": "3,17 mm",
     "Flutes": "1",
     "Length": "37,90 mm",
     "Material": "Carbide",
