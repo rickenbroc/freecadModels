@@ -43,6 +43,10 @@
     {
       "nr": 11,
       "path": "12.7 V90deg Q8.fctb"
+    },
+    {
+      "nr": 12,
+      "path": "0.5mm_droite.fctb"
     }
   ],
   "version": 1
