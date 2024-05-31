@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "12.7 conge Q6",
+  "shape": "..\\Shape\\roundingOver-conge.FCStd",
+  "parameter": {
+    "ChipLoad": "0.0",
+    "Diameter": "13,00 mm",
+    "EdgeLength": "3,00 mm",
+    "Flute": "0",
+    "Length": "50,00 mm",
+    "Radius": "12,70 mm",
+    "ShankDiameter": "6,00 mm",
+    "TipDiameter": "4,00 mm",
+    "TipLength": "5,00 mm"
+  },
+  "attribute": {}
+}
