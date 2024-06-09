@@ -1,0 +1,93 @@
+{
+  "1": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 38.2,
+    "diameter": 3.17,
+    "description": "3.175 Z2 droite"
+  },
+  "2": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 37.8,
+    "diameter": 0.5,
+    "description": "0.5mm_droite"
+  },
+  "3": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 37.9,
+    "diameter": 3.17,
+    "description": "3.175 Z1 UP Helicoidale"
+  },
+  "4": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 49.2,
+    "diameter": 1.5,
+    "description": "1.5 Z2 Q4"
+  },
+  "5": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 45.0,
+    "diameter": 10.0,
+    "description": "10 V60deg Q6"
+  },
+  "6": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 46.0,
+    "diameter": 22.0,
+    "description": "22 V90deg Q8"
+  },
+  "7": {
+    "units": "metric",
+    "shape": "Ballnose",
+    "length": 50.0,
+    "diameter": 3.0,
+    "description": "3.0 Ball Q3.17"
+  },
+  "8": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 48.0,
+    "diameter": 30.0,
+    "description": "30 Z2 Q6"
+  },
+  "9": {
+    "units": "metric",
+    "shape": "Ballnose",
+    "length": 50.6,
+    "diameter": 6.0,
+    "description": "6 Ball Q6"
+  },
+  "10": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 60.0,
+    "diameter": 6.0,
+    "description": "6 Z1 UP Alu Q8"
+  },
+  "11": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 60.0,
+    "diameter": 6.0,
+    "description": "6D L32 Corn End Mill"
+  },
+  "12": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 75.0,
+    "diameter": 6.0,
+    "description": "6D L42 Corn End Mill"
+  },
+  "13": {
+    "units": "metric",
+    "shape": "Cylindrical",
+    "length": 70.0,
+    "diameter": 8.0,
+    "description": "8 Z1 UP helicoidale"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "0.5mm_droite001",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0,00 mm",
+    "CuttingEdgeHeight": "10,00 mm",
+    "Diameter": "0,50 mm",
+    "Flutes": "1",
+    "Length": "50,00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3,00 mm"
+  },
+  "attribute": {}
+}

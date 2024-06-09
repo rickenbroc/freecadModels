@@ -1,0 +1,1 @@
+Drag Knife - Cuchilla de corte para CNC (papel, vinilo, etc.) by onasiis on Thingiverse: https://www.thingiverse.com/thing:1761794

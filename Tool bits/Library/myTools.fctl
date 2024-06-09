@@ -33,16 +33,20 @@
       "path": "6 ball L24 Q6.fctb"
     },
     {
-      "nr": 9,
-      "path": "6 60D 10mm.fctb"
-    },
-    {
       "nr": 10,
       "path": "6D L42 Corn End Mill.fctb"
     },
     {
       "nr": 11,
       "path": "12.7 V90deg Q8.fctb"
+    },
+    {
+      "nr": 12,
+      "path": "0.5mm_droite.fctb"
+    },
+    {
+      "nr": 14,
+      "path": "9.5 quartDeRond q8.fctb"
     }
   ],
   "version": 1
