@@ -17,10 +17,6 @@
       "path": "1.5 z2 Q4.fctb"
     },
     {
-      "nr": 5,
-      "path": "3.2 ball Q3.2.fctb"
-    },
-    {
       "nr": 6,
       "path": "6.35 Z2 Q6.35.fctb"
     },
@@ -47,6 +43,10 @@
     {
       "nr": 14,
       "path": "9.5 quartDeRond q8.fctb"
+    },
+    {
+      "nr": 15,
+      "path": "3.2 ball Q3.2.fctb"
     }
   ],
   "version": 1

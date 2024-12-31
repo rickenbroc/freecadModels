@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "name": "3.0 ball Q3.17",
+  "name": "3.0 ball Q3.2",
   "shape": "ballend.fcstd",
   "parameter": {
     "Chipload": "0,00 mm",
-    "CuttingEdgeHeight": "20,00 mm",
+    "CuttingEdgeHeight": "22,00 mm",
     "Diameter": "3,00 mm",
-    "Flutes": "2",
-    "Length": "38,00 mm",
+    "Flutes": "0",
+    "Length": "50,00 mm",
     "Material": "HSS",
-    "ShankDiameter": "3,17 mm"
+    "ShankDiameter": "3,20 mm"
   },
   "attribute": {}
 }
