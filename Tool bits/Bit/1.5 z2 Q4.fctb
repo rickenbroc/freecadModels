@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "name": "1.5 z2 Q009",
+  "name": "1.5 z2",
   "shape": "endmill.fcstd",
   "parameter": {
     "Chipload": "0,06 mm",
     "CuttingEdgeHeight": "5,00 mm",
-    "Diameter": "1,48 mm",
+    "Diameter": "1,50 mm",
     "Flutes": "2",
     "Length": "49,20 mm",
     "Material": "Carbide",
