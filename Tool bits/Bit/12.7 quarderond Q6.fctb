@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "name": "12.7 conge Q013",
+  "name": "12.7 quarderond Q6",
   "shape": "quartderond.FCStd",
   "parameter": {
     "ChipLoad": "0.0",
-    "CuttingEdgeHeight": "12,70 mm",
+    "CuttingEdgeHeight": "3,00 mm",
     "Diameter": "13,00 mm",
     "Flute": "0",
     "Length": "50,00 mm",

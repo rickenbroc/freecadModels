@@ -1,20 +1,17 @@
 {
   "version": 2,
-  "name": "9.5 quartDeRond q8",
-  "shape": "quartderond.fcstd",
+  "name": "roundingOver-conge",
+  "shape": "roundingOver-conge.FCStd",
   "parameter": {
-    "Chipload": "0,00 mm",
-    "CuttingEdgeAngle": "60,00 \u00b0",
-    "CuttingEdgeHeight": "6,35 mm",
-    "Diameter": "28,60 mm",
-    "EdgeLength": "6,00 mm",
-    "Flutes": "0",
-    "Length": "51,00 mm",
-    "Material": "HSS",
-    "Radius": "9,50 mm",
-    "ShankDiameter": "8,00 mm",
-    "TipDiameter": "6,00 mm",
-    "TipLength": "6,00 mm"
+    "ChipLoad": "0.0",
+    "Diameter": "13,00 mm",
+    "EdgeLength": "3,00 mm",
+    "Flute": "0",
+    "Length": "50,00 mm",
+    "Radius": "12,70 mm",
+    "ShankDiameter": "6,00 mm",
+    "TipDiameter": "4,00 mm",
+    "TipLength": "5,00 mm"
   },
   "attribute": {}
 }

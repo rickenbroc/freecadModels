@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "name": "60 Deg. V-Bit",
+  "name": "60 Deg. V-Bit002",
   "shape": "v-bit.fcstd",
   "parameter": {
-    "CuttingEdgeAngle": "60.0000 \u00b0",
-    "Diameter": "10.0000 mm",
-    "CuttingEdgeHeight": "1.0000 mm",
-    "TipDiameter": "1.0000 mm",
-    "Length": "20.0000 mm",
-    "ShankDiameter": "5.0000 mm"
+    "Chipload": "0,00 mm",
+    "CuttingEdgeAngle": "60,00 \u00b0",
+    "CuttingEdgeHeight": "1,00 mm",
+    "Diameter": "10,00 mm",
+    "Flutes": "0",
+    "Length": "20,00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "5,00 mm",
+    "TipDiameter": "1,00 mm"
   },
   "attribute": {}
 }

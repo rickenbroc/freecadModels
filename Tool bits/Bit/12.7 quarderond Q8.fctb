@@ -1,15 +1,14 @@
 {
   "version": 2,
-  "name": "12.7 conge Q013",
+  "name": "12.7 quarderond Q010",
   "shape": "quartderond.FCStd",
   "parameter": {
-    "ChipLoad": "0.0",
-    "CuttingEdgeHeight": "12,70 mm",
     "Diameter": "13,00 mm",
-    "Flute": "0",
+    "EdgeLength": "3,00 mm",
+    "Height": "50,00 mm",
     "Length": "50,00 mm",
     "Radius": "12,70 mm",
-    "ShankDiameter": "6,00 mm",
+    "ShankDiameter": "8,00 mm",
     "TipDiameter": "4,00 mm",
     "TipLength": "5,00 mm"
   },

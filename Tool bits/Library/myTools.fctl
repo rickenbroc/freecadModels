@@ -45,8 +45,16 @@
       "path": "0.5mm_droite.fctb"
     },
     {
+      "nr": 13,
+      "path": "60degree_Vbit.fctb"
+    },
+    {
       "nr": 14,
-      "path": "9.5 quartDeRond q8.fctb"
+      "path": "12.7 quarderond Q8.fctb"
+    },
+    {
+      "nr": 15,
+      "path": "5,05deg.fctb"
     }
   ],
   "version": 1
