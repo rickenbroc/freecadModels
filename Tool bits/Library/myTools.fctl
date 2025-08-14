@@ -17,6 +17,10 @@
       "path": "1.5 z2 Q4.fctb"
     },
     {
+      "nr": 5,
+      "path": "3.2 ball Q3.2.fctb"
+    },
+    {
       "nr": 6,
       "path": "6.35 Z2 Q6.35.fctb"
     },
@@ -41,12 +45,16 @@
       "path": "0.5mm_droite.fctb"
     },
     {
+      "nr": 13,
+      "path": "60degree_Vbit.fctb"
+    },
+    {
       "nr": 14,
-      "path": "9.5 quartDeRond q8.fctb"
+      "path": "12.7 quarderond Q8.fctb"
     },
     {
       "nr": 15,
-      "path": "3.2 ball Q3.2.fctb"
+      "path": "5,05deg.fctb"
     }
   ],
   "version": 1

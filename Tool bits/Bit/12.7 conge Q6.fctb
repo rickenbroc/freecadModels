@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "name": "12.7 conge Q6",
-  "shape": "..\\Shape\\roundingOver-conge.FCStd",
+  "name": "12.7 conge Q013",
+  "shape": "quartderond.FCStd",
   "parameter": {
     "ChipLoad": "0.0",
+    "CuttingEdgeHeight": "12,70 mm",
     "Diameter": "13,00 mm",
-    "EdgeLength": "3,00 mm",
     "Flute": "0",
     "Length": "50,00 mm",
     "Radius": "12,70 mm",
